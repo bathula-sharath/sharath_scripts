@@ -1,2 +1,2 @@
 # scripts
-Small and Simple Time Saving Bash Scripts
+Simple and Small Time Saving Bash Scripts
